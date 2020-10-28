@@ -28,11 +28,5 @@
     "url": "https://github.com/missmary94/bem_gulp/issues"
   },
   "homepage": "https://github.com/missmary94/bem_gulp#readme",
-  "description": "",
-  "browserlist": [
-    "last 1 version",
-    "> 1%",
-    "maintained node versions",
-    "not dead"
-  ]
+  "description": ""  
 }
