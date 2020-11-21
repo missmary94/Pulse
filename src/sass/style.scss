@@ -6,6 +6,7 @@
   margin: 0 auto;
 }
 @import 'base/_variables.scss';
+@import 'base/_animations.scss';
 @import 'blocks/_promo.scss';
 @import 'blocks/_header.scss';
 @import 'blocks/_buttons.scss';
@@ -18,3 +19,4 @@
 @import 'blocks/_feed.scss';
 @import 'blocks/_footer.scss';
 @import 'blocks/_modal.scss';
+@import 'blocks/pageup.scss';
